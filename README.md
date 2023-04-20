@@ -19,4 +19,4 @@ https://user-images.githubusercontent.com/105955582/220395024-f0f7d090-6a26-4d4a
 
 ## `🧑‍💻` Contact
 - **Telegram**: t.me/aithedev
-- **Discord**: ai#4444 (1078432806646054922)
+- **Discord**: ai#4444 (1097683941600796712)
